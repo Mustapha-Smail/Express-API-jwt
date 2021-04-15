@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+    height: 100%; 
+    margin: 0 auto; 
+}
+
+form, div{
+    width: 25%;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+h1{
+    position: absolute; 
+    right: 50%; 
+    top: 20%; 
+    transform: translateX(50%); 
+}
+
+p{
+    font-size: x-large;
+    font-weight: 600;
+
+}
+
